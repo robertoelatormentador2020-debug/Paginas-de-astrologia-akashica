@@ -1,0 +1,7 @@
+{
+  "name": "Astra Akasha: Esoteric Soul Platform",
+  "description": "An advanced web platform for Akashic and Esoteric Astrology, integrating the Seven Rays of Alice Bailey, Starseed origins, and Fixed Star analysis for deep soul-purpose discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
